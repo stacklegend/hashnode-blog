@@ -3,7 +3,7 @@ title: "Alan Turing and the Story of Breaking the Enigma"
 datePublished: Fri Aug 29 2025 22:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmf6614ob000102jscn9tfzu7
 slug: alan-turing-and-the-story-of-breaking-the-enigma
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757032993328/0cbc69be-7dc0-473c-aead-8f2fbb08b9a9.webp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757036377185/99db605b-1f7b-45b0-a266-fc2db0d4f204.jpeg
 tags: ai, technology, history, deep-learning, innovation, biography, information-technology
 
 ---
