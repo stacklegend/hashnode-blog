@@ -3,7 +3,7 @@ title: "Ada Lovelace and the Story of the World's First Algorithm"
 datePublished: Fri Aug 29 2025 22:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmf65zkth000002lcede7g17s
 slug: ada-lovelace-and-the-story-of-the-worlds-first-algorithm
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757032995586/9c147074-856b-4a74-8364-717e67e9a0e4.webp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1757036324873/85012f2d-51e8-4b29-aadf-941795c886be.jpeg
 tags: technology, history, innovation, biography, information-technology
 
 ---
