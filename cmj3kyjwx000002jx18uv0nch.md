@@ -79,7 +79,7 @@ The article continues on [Stacklegend IT Blog](https://blog.stacklegend.com/), w
 * Steve Wozniak's Undisputable Legacy
     
 
-## **Read the full art**i**cle on Stacklegend**
+## Read the full article on Stacklegend
 
 [Steve Wozniak's Legacy and the Personal Computer Revolution](https://blog.stacklegend.com/en/steve-wozniak-legacy-and-the-personal-computer-revolution)
 
